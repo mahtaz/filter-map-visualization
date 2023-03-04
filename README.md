@@ -4,11 +4,9 @@ This project aims to visualize filters, feature maps, guided backpropagation fro
 
 
 ### Run on Google Colab
-* Go to this link: https://colab.research.google.com/github/nguyenhoa93/cnn-visualization-keras-tf2/blob/master/visualization.ipynb
+* Go to this link: https://github.com/mahtaz/filter-map-visualization/blob/main/Visualizing_Filters_pytorch.ipynb
 * Change your runtime type to `Python3`
 * Run the code.
-
-![](images/demo-1.gif)
 
 ## Briefs
 
