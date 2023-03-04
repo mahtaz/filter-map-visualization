@@ -2,6 +2,12 @@
 
 This project aims to visualize filters, feature maps, guided backpropagation from any convolutional layers of all pre-trained models on ImageNet available in `torchvision.models.alexnet`. This will help us observe how filters and feature maps change through each convolution layer from input to output.
 
+# Libraries
+*   pytorch
+*   cv2
+*   matplotlib
+*   numpy
+*   collections
 
 ### Run on Google Colab
 * Go to this link: https://github.com/mahtaz/filter-map-visualization/blob/main/Visualizing_Filters_pytorch.ipynb
