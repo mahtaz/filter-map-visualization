@@ -1,9 +1,15 @@
 # Filter-Map-Insights
 
-This project aims to visualize filters, feature maps, guided backpropagation from any convolutional layers of all pre-trained models on ImageNet available in `torchvision.models.alexnet`. This will help us observe how filters and feature maps change through each convolution layer from input to output.
+This repository contains two Jupyter notebooks that demonstrate how to visualize filters in convolutional neural networks (CNNs) using Keras and PyTorch.
+This project aims to visualize filters, feature maps, guided backpropagation from any convolutional layers of all pre-trained models on ImageNet available in `torchvision.models.alexnet` and `keras.applications.resnet`. This will help us observe how filters and feature maps change through each convolution layer from input to output.
+### Files
+* `Visualizing_Filters_keras.ipynb`: a Jupyter notebook that demonstrates how to visualize filters and feature maps in Keras.
+* `Visualizing_Filters_pytorch.ipynb`: a Jupyter notebook that demonstrates how to visualize filters and feature maps in PyTorch.
 
 ### Libraries
+
 *   pytorch
+*   keras
 *   cv2
 *   matplotlib
 *   numpy
